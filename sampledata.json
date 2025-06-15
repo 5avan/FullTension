@@ -1,0 +1,273 @@
+
+  [
+    {
+      "id": "para_001",
+      "text": "Global warming is caused by the emission of greenhouse gases such as carbon dioxide and methane. Human activities like burning fossil fuels and deforestation are major contributors. Climate change affects ecosystems, sea levels, and weather patterns.",
+      "questions": [
+        {
+          "id": "q_001_1",
+          "text": "What is a primary cause of global warming?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_001_2",
+          "options": [
+            { "id": "opt_001_1", "text": "Recycling plastics", "explanation": "While helpful, it does not contribute significantly to global warming." },
+            { "id": "opt_001_2", "text": "Emission of greenhouse gases", "explanation": "Correct. Greenhouse gases trap heat in the atmosphere." },
+            { "id": "opt_001_3", "text": "Increased rainfall", "explanation": "This is an effect, not a cause of global warming." },
+            { "id": "opt_001_4", "text": "Growing trees", "explanation": "Growing trees actually helps reduce global warming." }
+          ]
+        },
+        {
+          "id": "q_001_2",
+          "text": "Which human activity is a major contributor to climate change?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_002_1",
+          "options": [
+            { "id": "opt_002_1", "text": "Burning fossil fuels", "explanation": "Correct. It releases large amounts of CO₂." },
+            { "id": "opt_002_2", "text": "Using solar panels", "explanation": "This is a clean energy source and not a contributor." },
+            { "id": "opt_002_3", "text": "Recycling paper", "explanation": "This reduces waste but isn't a major contributor." },
+            { "id": "opt_002_4", "text": "Cycling to work", "explanation": "This helps reduce emissions, not cause them." }
+          ]
+        },
+        {
+          "id": "q_001_3",
+          "text": "What are effects of climate change?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_003_4",
+          "options": [
+            { "id": "opt_003_1", "text": "Lower oxygen levels", "explanation": "Oxygen levels aren't directly impacted." },
+            { "id": "opt_003_2", "text": "Population growth", "explanation": "This is unrelated to climate change." },
+            { "id": "opt_003_3", "text": "More employment", "explanation": "This is not a direct effect of climate change." },
+            { "id": "opt_003_4", "text": "Rising sea levels", "explanation": "Correct. Melting ice caps cause sea levels to rise." }
+          ]
+        },
+        {
+          "id": "q_001_4",
+          "text": "Which gas is a greenhouse gas?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_004_2",
+          "options": [
+            { "id": "opt_004_1", "text": "Oxygen", "explanation": "Oxygen is not a greenhouse gas." },
+            { "id": "opt_004_2", "text": "Carbon dioxide", "explanation": "Correct. It's a major greenhouse gas." },
+            { "id": "opt_004_3", "text": "Nitrogen", "explanation": "Nitrogen makes up most of the air but is not a greenhouse gas." },
+            { "id": "opt_004_4", "text": "Helium", "explanation": "Helium is inert and not a greenhouse gas." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "para_002",
+      "text": "Photosynthesis is the process by which green plants convert sunlight, water, and carbon dioxide into glucose and oxygen. It is vital for life on Earth.",
+      "questions": [
+        {
+          "id": "q_002_1",
+          "text": "What is the main purpose of photosynthesis?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_005_3",
+          "options": [
+            { "id": "opt_005_1", "text": "To absorb nutrients", "explanation": "This is done through roots, not photosynthesis." },
+            { "id": "opt_005_2", "text": "To release nitrogen", "explanation": "Photosynthesis does not involve nitrogen." },
+            { "id": "opt_005_3", "text": "To produce glucose", "explanation": "Correct. Glucose is the main product of photosynthesis." },
+            { "id": "opt_005_4", "text": "To cool the plant", "explanation": "Cooling is a side effect, not a purpose." }
+          ]
+        },
+        {
+          "id": "q_002_2",
+          "text": "What are the inputs required for photosynthesis?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_006_1",
+          "options": [
+            { "id": "opt_006_1", "text": "Sunlight, water, and carbon dioxide", "explanation": "Correct. These are the key inputs." },
+            { "id": "opt_006_2", "text": "Oxygen and glucose", "explanation": "These are the outputs, not inputs." },
+            { "id": "opt_006_3", "text": "Nitrogen and minerals", "explanation": "They are absorbed from soil but not used in photosynthesis." },
+            { "id": "opt_006_4", "text": "Sunlight and oxygen", "explanation": "Oxygen is produced, not consumed." }
+          ]
+        },
+        {
+          "id": "q_002_3",
+          "text": "Which organism primarily performs photosynthesis?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_007_3",
+          "options": [
+            { "id": "opt_007_1", "text": "Animals", "explanation": "Animals do not photosynthesize." },
+            { "id": "opt_007_2", "text": "Fungi", "explanation": "Fungi are decomposers and do not photosynthesize." },
+            { "id": "opt_007_3", "text": "Green plants", "explanation": "Correct. They contain chlorophyll for photosynthesis." },
+            { "id": "opt_007_4", "text": "Humans", "explanation": "Humans consume food made by photosynthesizing organisms." }
+          ]
+        },
+        {
+          "id": "q_002_4",
+          "text": "What gas is released during photosynthesis?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_008_4",
+          "options": [
+            { "id": "opt_008_1", "text": "Carbon dioxide", "explanation": "This is absorbed during the process." },
+            { "id": "opt_008_2", "text": "Nitrogen", "explanation": "Not involved in photosynthesis." },
+            { "id": "opt_008_3", "text": "Hydrogen", "explanation": "Hydrogen is part of water, but not released." },
+            { "id": "opt_008_4", "text": "Oxygen", "explanation": "Correct. Oxygen is a by-product of photosynthesis." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "para_003",
+      "text": "The internet has revolutionized communication, enabling people to connect across the globe instantly. Social media platforms have changed how news spreads and how people interact.",
+      "questions": [
+        {
+          "id": "q_003_1",
+          "text": "How has the internet impacted communication?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_009_3",
+          "options": [
+            { "id": "opt_009_1", "text": "Reduced global connections", "explanation": "The internet has increased global connections." },
+            { "id": "opt_009_2", "text": "Increased phone calls only", "explanation": "Communication is not limited to phone calls." },
+            { "id": "opt_009_3", "text": "Enabled instant global communication", "explanation": "Correct. People can now connect instantly worldwide." },
+            { "id": "opt_009_4", "text": "Stopped physical mail", "explanation": "Physical mail still exists, though less used." }
+          ]
+        },
+        {
+          "id": "q_003_2",
+          "text": "What is one effect of social media on news?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_010_4",
+          "options": [
+            { "id": "opt_010_1", "text": "Stops people from reading", "explanation": "It doesn’t stop reading, but changes formats." },
+            { "id": "opt_010_2", "text": "Reduces access to news", "explanation": "It actually increases access." },
+            { "id": "opt_010_3", "text": "Makes news more private", "explanation": "It makes news more public, not private." },
+            { "id": "opt_010_4", "text": "Speeds up news spread", "explanation": "Correct. News spreads rapidly via social media." }
+          ]
+        },
+        {
+          "id": "q_003_3",
+          "text": "Which platform is part of social media?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_011_1",
+          "options": [
+            { "id": "opt_011_1", "text": "Facebook", "explanation": "Correct. Facebook is a well-known social media platform." },
+            { "id": "opt_011_2", "text": "Google Docs", "explanation": "It's a collaboration tool, not a social media platform." },
+            { "id": "opt_011_3", "text": "Excel", "explanation": "Excel is a spreadsheet software." },
+            { "id": "opt_011_4", "text": "Wikipedia", "explanation": "Wikipedia is an encyclopedia, not social media." }
+          ]
+        },
+        {
+          "id": "q_003_4",
+          "text": "Which of these is a benefit of internet communication?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_012_2",
+          "options": [
+            { "id": "opt_012_1", "text": "Less connectivity", "explanation": "Internet increases connectivity, not lessens it." },
+            { "id": "opt_012_2", "text": "Instant messaging", "explanation": "Correct. Instant messaging is a major benefit." },
+            { "id": "opt_012_3", "text": "More postal mails", "explanation": "Internet reduces reliance on postal mail." },
+            { "id": "opt_012_4", "text": "Increased travel", "explanation": "Internet reduces need for travel through virtual meetings." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "para_004",
+      "text": "The water cycle includes evaporation, condensation, precipitation, and collection. This cycle maintains Earth’s water balance and supports all forms of life.",
+      "questions": [
+        {
+          "id": "q_004_1",
+          "text": "What is the first step of the water cycle?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_013_1",
+          "options": [
+            { "id": "opt_013_1", "text": "Evaporation", "explanation": "Correct. Water from surfaces turns into vapor." },
+            { "id": "opt_013_2", "text": "Condensation", "explanation": "This comes after evaporation." },
+            { "id": "opt_013_3", "text": "Precipitation", "explanation": "This occurs later in the cycle." },
+            { "id": "opt_013_4", "text": "Collection", "explanation": "This is the final stage." }
+          ]
+        },
+        {
+          "id": "q_004_2",
+          "text": "What happens during condensation?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_014_2",
+          "options": [
+            { "id": "opt_014_1", "text": "Water turns to gas", "explanation": "That's evaporation." },
+            { "id": "opt_014_2", "text": "Water vapor forms clouds", "explanation": "Correct. Vapor condenses into droplets forming clouds." },
+            { "id": "opt_014_3", "text": "Rain falls", "explanation": "That’s precipitation." },
+            { "id": "opt_014_4", "text": "Water collects in rivers", "explanation": "That’s collection." }
+          ]
+        },
+        {
+          "id": "q_004_3",
+          "text": "What is precipitation?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_015_3",
+          "options": [
+            { "id": "opt_015_1", "text": "Formation of vapor", "explanation": "That's evaporation." },
+            { "id": "opt_015_2", "text": "Water staying in clouds", "explanation": "That precedes precipitation." },
+            { "id": "opt_015_3", "text": "Rain, snow, or hail falling", "explanation": "Correct. That’s precipitation." },
+            { "id": "opt_015_4", "text": "Evaporation of lakes", "explanation": "That's evaporation." }
+          ]
+        },
+        {
+          "id": "q_004_4",
+          "text": "Why is the water cycle important?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_016_2",
+          "options": [
+            { "id": "opt_016_1", "text": "Creates clouds only", "explanation": "It does more than that." },
+            { "id": "opt_016_2", "text": "Supports all forms of life", "explanation": "Correct. It provides essential water resources." },
+            { "id": "opt_016_3", "text": "Reduces oxygen", "explanation": "It's unrelated to oxygen levels." },
+            { "id": "opt_016_4", "text": "Blocks sunlight", "explanation": "The water cycle does not block sunlight." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "para_005",
+      "text": "India is a democratic country where citizens elect their representatives. The constitution is the supreme law of the land, ensuring equality and justice.",
+      "questions": [
+        {
+          "id": "q_005_1",
+          "text": "What kind of government does India have?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_017_1",
+          "options": [
+            { "id": "opt_017_1", "text": "Democratic", "explanation": "Correct. Citizens elect representatives in a democracy." },
+            { "id": "opt_017_2", "text": "Monarchy", "explanation": "India does not have a royal ruler." },
+            { "id": "opt_017_3", "text": "Dictatorship", "explanation": "India is not ruled by a single authority." },
+            { "id": "opt_017_4", "text": "Oligarchy", "explanation": "India's power is not held by a few people." }
+          ]
+        },
+        {
+          "id": "q_005_2",
+          "text": "Who elects the representatives in India?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_018_3",
+          "options": [
+            { "id": "opt_018_1", "text": "President", "explanation": "The president is elected, not the one who elects all representatives." },
+            { "id": "opt_018_2", "text": "Prime Minister", "explanation": "The PM is appointed, not the one electing others." },
+            { "id": "opt_018_3", "text": "Citizens", "explanation": "Correct. People vote in elections." },
+            { "id": "opt_018_4", "text": "Supreme Court", "explanation": "The court interprets law, not elects representatives." }
+          ]
+        },
+        {
+          "id": "q_005_3",
+          "text": "What is the role of the Constitution in India?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_019_2",
+          "options": [
+            { "id": "opt_019_1", "text": "Make laws daily", "explanation": "That is Parliament’s role." },
+            { "id": "opt_019_2", "text": "Supreme law of the land", "explanation": "Correct. The Constitution is the foundational legal document." },
+            { "id": "opt_019_3", "text": "Elect the president", "explanation": "That is done by the electoral college." },
+            { "id": "opt_019_4", "text": "Collect taxes", "explanation": "This is handled by government departments." }
+          ]
+        },
+        {
+          "id": "q_005_4",
+          "text": "What does the Constitution ensure?",
+          "allowMultiple": false,
+          "correctOptionId": "opt_020_1",
+          "options": [
+            { "id": "opt_020_1", "text": "Equality and justice", "explanation": "Correct. It protects fundamental rights." },
+            { "id": "opt_020_2", "text": "Military rule", "explanation": "India is governed democratically." },
+            { "id": "opt_020_3", "text": "One-party rule", "explanation": "India has multiple political parties." },
+            { "id": "opt_020_4", "text": "Wealth for all", "explanation": "It promotes equality but does not guarantee wealth." }
+          ]
+        }
+      ]
+    }
+  ]
