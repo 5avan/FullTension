@@ -14,20 +14,22 @@ mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
-.then(() => console.log('Connected to MongoDB'))
+.then(() => console.log('Connected to DB:', mongoose.connection.name))
 .catch((err) => console.error('MongoDB connection error:', err));
 
 // Define Schema
 const optionSchema = new mongoose.Schema({
   id: String,
-  text: String
+  text: String,
+  explanation: String
 });
 
 const questionSchema = new mongoose.Schema({
   id: String,
   text: String,
   options: [optionSchema],
-  allowMultiple: Boolean
+  allowMultiple: Boolean,
+  correctOptionId: String
 });
 
 const paragraphSchema = new mongoose.Schema({
@@ -36,7 +38,7 @@ const paragraphSchema = new mongoose.Schema({
   questions: [questionSchema]
 });
 
-const Paragraph = mongoose.model('Paragraph', paragraphSchema);
+const Paragraph = mongoose.model('Paragraph', paragraphSchema,'Paragraph');
 
 // API Routes
 app.get('/api/paragraph', async (req, res) => {

@@ -1,12 +1,14 @@
 export interface Option {
   id: string;
   text: string;
+  explanation: string;
 }
 
 export interface Question {
   id: string;
   text: string;
   options: Option[];
+  correctOptionId: string;
   allowMultiple: boolean;
 }
 
